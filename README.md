@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Tshireletso Johannes Rakoma
 #### Aspiring Software Developer
-![Aspiring Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a very competent individual when it comes to all sorts of work. I can easily work with other individuals and collaborate in a different workspace.
 
